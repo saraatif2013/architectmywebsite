@@ -1,53 +1,56 @@
 ---
 layout: default
+title: Animal Learning Adventures
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to Animal Learning Adventures! 🐾
 
-[Link to another page](./another-page.html).
+Hello! Welcome to my educational website about amazing animals from around the world. Here you'll discover fascinating facts, beautiful photos, and important information about wildlife conservation.
 
-There should be whitespace between paragraphs.
+## What You'll Find Here
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- **[Animal Categories](./projects.html)** - Explore different types of animals (mammals, birds, reptiles, etc.)
+- **[Animal Facts](./journal.html)** - Weekly discoveries and interesting trivia
+- **[Fun Facts](./fun-facts.html)** - Quick and amazing animal facts
+- **[Conservation Projects](./assignments.html)** - Research on endangered species and conservation efforts
+- **[Learning Resources](./resources.html)** - Helpful links, videos, and books about animals
 
-# sara
+## Featured Animals This Month
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🐘 African Elephant
+The largest land animal, with incredible memory and strong family bonds.
 
-## Header 2
+### 🐼 Giant Panda
+An endangered bear species that spends most of its day eating bamboo.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 🐢 Sea Turtle
+Ancient mariners that travel thousands of miles across oceans.
 
-### Header 3
+### 🦁 African Lion
+The "King of the Jungle" with a powerful roar that can be heard for miles.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Quick Animal Facts! 🐾
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **🐝 Honeybees** can recognize human faces!
+- **🐙 Octopuses** have three hearts and blue blood
+- **🐘 Elephants** are the only animals that can't jump
+- **🐧 Penguins** can drink saltwater and filter out the salt
+- **🦉 Owls** can rotate their heads almost 360 degrees
+- **🐨 Koalas** sleep up to 20 hours a day
+- **🐆 Cheetahs** can accelerate from 0 to 60 mph in 3 seconds
+- **🐳 Blue whales** have hearts the size of a small car
 
-#### Header 4
+## Why Animals Matter
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Animals are essential to our planet's ecosystem. Learning about them helps us:
+- Understand biodiversity
+- Support conservation efforts
+- Appreciate nature's beauty
+- Protect endangered species
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*This educational website is built with Jekyll and the Architect theme.*
 
 ###### Header 6
 

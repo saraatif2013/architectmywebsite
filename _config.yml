@@ -1,5 +1,11 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
+title: Animal Learning Adventures
+description: Discover amazing facts about animals from around the world
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+
+# Animal education project
+author: [Your Name]
+school: [Your School Name]
+subject: Animal Biology & Conservation
+year: 2024
